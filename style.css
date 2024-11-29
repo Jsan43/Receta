@@ -1,0 +1,16 @@
+ul li {
+    list-style-type: square;
+}
+
+p.rojo {
+
+    color: red;
+}
+
+html {
+    font-family: "Times New Roman";
+  }
+
+body {
+    background-color: beige;
+}
